@@ -1,0 +1,501 @@
+Position title,Salary($),Years in Startup,Total Experience( Year)
+Software engineer,180000,7.0,7.0
+Staff software engineer,180000,6.0,20.0
+Lead software engineer,100000,5.0,5.0
+Senior software engineer,165000,4.0,10.0
+Senior software engineer,150000,4.0,10.0
+Software engineer,150000,4.0,7.0
+Software engineer,150000,4.0,7.0
+Software engineer,150000,4.0,4.0
+Software engineer,195000,4.0,6.0
+Senior software engineer,130000,4.0,4.0
+Staff software engineer,195000,4.0,6.0
+Staff software engineer,200000,4.0,11.0
+Senior software engineer,192000,4.0,4.0
+Senior software engineer,220000,3.5,9.5
+Senior software engineer,180000,3.0,6.0
+Senior software engineer,180000,3.0,6.0
+Senior software engineer,135000,3.0,15.0
+Senior software engineer,240000,3.0,5.0
+Senior software engineer,175000,3.0,8.0
+Senior software engineer,355000,3.0,18.0
+Senior software engineer,152000,3.0,10.0
+Staff software engineer,225000,3.0,10.0
+Senior software engineer,162000,3.0,6.0
+Senior software engineer,250000,3.0,12.0
+Founding software engineer,170000,2.5,15.0
+Software engineer,160000,2.5,5.0
+Senior software engineer,190000,2.5,18.0
+Software engineer,150000,2.5,3.5
+Senior software engineer,160000,2.5,9.0
+Software engineer,130000,2.5,3.0
+Senior software engineer,140000,2.5,6.0
+Software engineer,170000,2.5,4.5
+Software engineer,170000,2.0,2.0
+Senior software engineer,175000,2.0,8.0
+Staff software engineer,256000,2.0,12.0
+Software engineer,120000,2.0,4.0
+Lead software engineer,100000,2.0,5.0
+Software engineer,170000,2.0,2.0
+Senior software engineer,212000,2.0,9.0
+Software engineer,140000,2.0,2.0
+Senior software engineer,180000,2.0,6.0
+Senior software engineer,200000,2.0,5.0
+Senior software engineer,175000,2.0,7.0
+Staff software engineer,300000,2.0,10.0
+Senior software engineer,255000,2.0,10.0
+Senior software engineer,225000,2.0,7.0
+Senior software engineer,235000,2.0,3.0
+Lead software engineer,150000,2.0,6.0
+Senior software engineer,195000,2.0,11.0
+Senior software engineer,170000,2.0,15.0
+Senior software engineer,260000,2.0,7.0
+Staff software engineer,160000,2.0,9.0
+Staff software engineer,170000,2.0,5.0
+Senior software engineer,210000,2.0,9.0
+Staff software engineer,180000,2.0,8.0
+Software engineer,160000,2.0,9.0
+Senior software engineer,75000,2.0,2.0
+Staff software engineer,150000,2.0,5.0
+Senior software engineer,175000,2.0,5.0
+Staff software engineer,160000,2.0,12.0
+Senior software engineer,140000,1.5,5.0
+Software engineer,125000,1.5,2.0
+Software engineer,160000,1.5,3.0
+Senior software engineer,157500,1.5,7.0
+Software engineer,120000,1.5,2.0
+Senior software engineer,150000,1.5,4.0
+Software engineer,170000,1.5,4.0
+Senior software engineer,125000,1.5,7.0
+Software engineer,150000,1.5,5.0
+Software engineer,135000,1.5,4.0
+Founding software engineer,130000,1.5,5.0
+Software engineer,155000,1.5,1.5
+Software engineer,150000,1.5,1.5
+Senior software engineer,90000,1.5,7.0
+Senior software engineer,190000,1.5,8.0
+Senior software engineer,625000,1.0,12.0
+Software engineer,175000,1.0,5.0
+Senior software engineer,200000,1.0,10.0
+Software engineer,150000,1.0,1.0
+Senior software engineer,120000,1.0,5.0
+Senior software engineer,185000,1.0,10.0
+Senior software engineer,201000,1.0,16.0
+Senior software engineer,178000,1.0,7.0
+Senior software engineer,210000,1.0,16.0
+Software engineer,195000,1.0,4.0
+Staff software engineer,240000,1.0,15.0
+Senior software engineer,200000,1.0,10.0
+Software engineer,175000,1.0,8.0
+Senior software engineer,210000,1.0,5.0
+Software engineer,138000,1.0,7.0
+Software engineer,142000,1.0,3.0
+Senior software engineer,155000,1.0,6.0
+Staff software engineer,175000,1.0,12.0
+Senior software engineer,85000,1.0,2.0
+Senior software engineer,170000,1.0,6.5
+Senior software engineer,135000,1.0,3.0
+Software engineer,165000,1.0,3.0
+Founding software engineer,165000,1.0,3.0
+Software engineer,175000,1.0,2.0
+Senior software engineer,178000,1.0,6.0
+Senior software engineer,225000,1.0,8.0
+Staff software engineer,130000,1.0,11.0
+Senior software engineer,200000,1.0,15.0
+Senior software engineer,230000,1.0,6.0
+Founding software engineer,70000,1.0,4.0
+Senior software engineer,220000,1.0,13.0
+Software engineer,120000,1.0,1.0
+Senior staff software engineer,230000,1.0,12.0
+Senior software engineer,200000,1.0,5.0
+Senior software engineer,180000,1.0,5.0
+Senior software engineer,175000,1.0,5.0
+Senior software engineer,170000,1.0,11.0
+Software engineer,240000,0.5,5.0
+Senior software engineer,210000,0.5,8.0
+Software engineer,185000,0.5,3.0
+Senior software engineer,180000,0.5,4.0
+Software engineer,220000,0.5,3.0
+Staff software engineer,250000,0.5,8.0
+Software engineer,180000,0.5,3.5
+Software engineer,137000,0.5,2.0
+Senior software engineer,265000,0.5,6.0
+Senior software engineer,165000,0.5,7.0
+Software engineer,150000,0.5,6.0
+Staff software engineer,275000,0.5,6.0
+Software engineer,160000,0.5,7.0
+Staff software engineer,253000,0.5,13.0
+Software engineer,28000,0.5,1.0
+Senior software engineer,120000,0.5,2.5
+Senior software engineer,185000,0.5,10.0
+Senior software engineer,180000,0.5,5.0
+Senior software engineer,165000,0.5,6.0
+Senior software engineer,160000,0.5,11.0
+Senior software engineer,198000,0.0,7.0
+Senior software engineer,185000,0.0,8.0
+Senior software engineer,195000,0.0,8.0
+Senior software engineer,200000,0.0,8.0
+Senior software engineer,210000,0.0,9.0
+Senior software engineer,208000,0.0,10.0
+Staff software engineer,210000,0.0,11.0
+Staff software engineer,230000,0.0,13.0
+Senior software engineer,200000,0.0,6.0
+Software engineer,200000,0.0,15.0
+Senior software engineer,200000,0.0,0.0
+Founding software engineer,140000,0.0,3.0
+Senior software engineer,200000,0.0,10.0
+Senior software engineer,168000,0.0,7.0
+Senior software engineer,200000,0.0,6.0
+Staff software engineer,200000,0.0,11.0
+Founding software engineer,182000,0.0,2.0
+Software engineer,180000,0.0,4.0
+Software engineer,125000,0.0,2.0
+Software engineer,180000,0.0,3.5
+Software engineer,185000,0.0,4.0
+Staff software engineer,250000,0.0,15.0
+Software engineer,170000,0.0,3.0
+Senior software engineer,200000,0.0,6.0
+Software engineer,140000,0.0,10.0
+Software engineer,175000,0.0,4.0
+Staff software engineer,190000,0.0,10.0
+Software engineer,190000,0.0,10.0
+Senior software engineer,150000,0.0,7.0
+Software engineer,140000,0.0,7.0
+Software engineer,150000,0.0,3.0
+Founding software engineer,230000,0.0,11.0
+Senior software engineer,215000,0.0,9.0
+Software engineer,225000,0.0,8.0
+Software engineer,140000,0.0,10.0
+Software engineer,185000,0.0,4.0
+Senior software engineer,215000,0.0,8.0
+Software engineer,190000,0.0,3.0
+Software engineer,175000,0.0,3.5
+Founding software engineer,215000,0.0,15.0
+Founding software engineer,185000,0.0,3.0
+Software engineer,145000,0.0,4.0
+Founding software engineer,120000,0.0,7.0
+Software engineer,195000,0.0,3.0
+Founding software engineer,240000,0.0,7.0
+Software engineer,260000,0.0,12.0
+Senior software engineer,234000,0.0,8.0
+Senior software engineer,203000,0.0,10.0
+Senior software engineer,220000,0.0,8.0
+Software engineer,210000,0.0,7.0
+Staff software engineer,215000,0.0,11.0
+Software engineer,130000,0.0,0.0
+Software engineer,230000,0.0,5.0
+Staff software engineer,284000,0.0,10.0
+Software engineer,173000,0.0,2.0
+Software engineer,145000,0.0,2.0
+Staff software engineer,220000,0.0,7.0
+Staff software engineer,185000,0.0,10.0
+Software engineer,165000,0.0,2.0
+Software engineer,178000,0.0,2.0
+Staff software engineer,250000,0.0,8.0
+Software engineer,220000,0.0,5.0
+Software engineer,135000,0.0,11.0
+Staff software engineer,230000,0.0,9.0
+Software engineer,200000,0.0,2.0
+Software engineer,212000,0.0,6.0
+Software engineer,175000,0.0,2.0
+Staff software engineer,170000,0.0,9.0
+Senior software engineer,205000,0.0,9.0
+Senior software engineer,190000,0.0,3.0
+Software engineer,210000,0.0,5.0
+Software engineer,200000,0.0,3.0
+Software engineer,160000,0.0,1.0
+Senior software engineer,230000,0.0,8.0
+Software engineer,145000,0.0,2.0
+Staff software engineer,170000,0.0,8.0
+Senior software engineer,228000,0.0,10.0
+Software engineer,140000,0.0,0.0
+Senior software engineer,195000,0.0,5.0
+Senior software engineer,310000,0.0,10.0
+Software engineer,220000,0.0,0.0
+Software engineer,195000,0.0,0.0
+Senior software engineer,200000,0.0,5.0
+Senior software engineer,190000,0.0,9.0
+Software engineer,166000,0.0,0.0
+Software engineer,165000,0.0,0.0
+Software engineer,180000,0.0,4.0
+Software engineer,195000,0.0,2.0
+Software engineer,189000,0.0,0.0
+Staff software engineer,295000,0.0,10.0
+Staff software engineer,220000,0.0,10.0
+Senior software engineer,315000,0.0,10.0
+Senior software engineer,220000,0.0,6.0
+Staff software engineer,295000,0.0,10.0
+Senior software engineer,280000,0.0,8.0
+Senior software engineer,360000,0.0,8.0
+Software engineer,200000,0.0,8.0
+Software engineer,140000,0.0,0.0
+Senior software engineer,250000,0.0,8.0
+Software engineer,150000,0.0,1.0
+Software engineer,205000,0.0,2.0
+Software engineer,165000,0.0,2.0
+Senior software engineer,200000,0.0,6.0
+Senior software engineer,260000,0.0,12.0
+Senior software engineer,250000,0.0,12.0
+Software engineer,190000,0.0,0.0
+Senior software engineer,260000,0.0,15.0
+Software engineer,165000,0.0,1.0
+Software engineer,175000,0.0,2.0
+Software engineer,170000,0.0,3.0
+Staff software engineer,230000,0.0,8.0
+Staff software engineer,275000,0.0,6.0
+Software engineer,149000,0.0,0.0
+Software engineer,200000,0.0,6.0
+Software engineer,140000,0.0,2.0
+Senior software engineer,235000,0.0,6.0
+Senior software engineer,231000,0.0,5.0
+Senior software engineer,210000,0.0,4.0
+Senior software engineer,200000,0.0,8.0
+Senior software engineer,220000,0.0,8.0
+Software engineer,190000,0.0,3.0
+Senior software engineer,180000,0.0,5.0
+Software engineer,220000,0.0,6.0
+Founding software engineer,180000,0.0,3.0
+Software engineer,120000,0.0,5.0
+Senior software engineer,220000,0.0,8.0
+Senior software engineer,220000,0.0,6.0
+Senior software engineer,200000,0.0,6.0
+Software engineer,175000,0.0,4.0
+Senior software engineer,200000,0.0,5.0
+Senior software engineer,190000,0.0,7.0
+Senior software engineer,205000,0.0,7.0
+Software engineer,190000,0.0,4.0
+Software engineer,180000,0.0,2.0
+Software engineer,210000,0.0,3.0
+Software engineer,215000,0.0,3.0
+Senior software engineer,135000,0.0,5.0
+Staff software engineer,283000,0.0,10.0
+Software engineer,170000,0.0,4.0
+Software engineer,160000,0.0,2.5
+Staff software engineer,300000,0.0,9.0
+Senior software engineer,180000,0.0,5.0
+Senior software engineer,228000,0.0,8.0
+Senior software engineer,210000,0.0,8.0
+Senior software engineer,200000,0.0,6.0
+Staff software engineer,225000,0.0,12.0
+Founding software engineer,150000,0.0,15.0
+Software engineer,135000,0.0,1.0
+Staff software engineer,230000,0.0,16.0
+Senior software engineer,217000,0.0,5.0
+Senior software engineer,225000,0.0,5.0
+Senior software engineer,190000,0.0,5.0
+Senior software engineer,213000,0.0,5.0
+Software engineer,184000,0.0,9.0
+Staff software engineer,253000,0.0,9.0
+Software engineer,200000,0.0,4.0
+Lead software engineer,230000,0.0,7.0
+Lead software engineer,190000,0.0,5.0
+Lead software engineer,200000,0.0,6.0
+Senior software engineer,180000,0.0,7.0
+Senior software engineer,255000,0.0,5.0
+Senior software engineer,245000,0.0,5.0
+Senior software engineer,250000,0.0,10.0
+Software engineer,215000,0.0,8.0
+Software engineer,180000,0.0,7.0
+Senior software engineer,193000,0.0,6.0
+Senior software engineer,160000,0.0,3.5
+Senior software engineer,230000,0.0,13.0
+Senior software engineer,160000,0.0,12.0
+Senior software engineer,220000,0.0,7.0
+Software engineer,230000,0.0,8.0
+Senior software engineer,193000,0.0,5.0
+Senior software engineer,222000,0.0,9.0
+Software engineer,170000,0.0,6.0
+Software engineer,207000,0.0,4.0
+Software engineer,175000,0.0,6.0
+Software engineer,185000,0.0,6.0
+Senior software engineer,215000,0.0,7.0
+Software engineer,165000,0.0,7.0
+Software engineer,175000,0.0,6.0
+Software engineer,160000,0.0,0.0
+Senior software engineer,230000,0.0,4.0
+Software engineer,125000,0.0,4.0
+Senior software engineer,220000,0.0,7.0
+Staff software engineer,250000,0.0,8.0
+Senior software engineer,249000,0.0,7.0
+Staff software engineer,275000,0.0,13.0
+Software engineer,165000,0.0,0.0
+Software engineer,146000,0.0,0.0
+Staff software engineer,200000,0.0,8.0
+Senior software engineer,245000,0.0,9.0
+Founding software engineer,220000,0.0,8.0
+Senior software engineer,165000,0.0,8.0
+Senior software engineer,240000,0.0,7.0
+Senior software engineer,170000,0.0,5.0
+Software engineer,165000,0.0,1.0
+Senior software engineer,242000,0.0,4.0
+Senior software engineer,207000,0.0,4.0
+Software engineer,255000,0.0,10.0
+Senior software engineer,250000,0.0,10.0
+Senior software engineer,250000,0.0,7.0
+Staff software engineer,270000,0.0,6.0
+Staff software engineer,265000,0.0,6.0
+Software engineer,160000,0.0,5.0
+Senior software engineer,205000,0.0,5.0
+Senior software engineer,180000,0.0,5.0
+Senior software engineer,230000,0.0,5.0
+Software engineer,185000,0.0,5.0
+Founding software engineer,200000,0.0,6.0
+Senior software engineer,200000,0.0,7.0
+Founding software engineer,200000,0.0,18.0
+Senior software engineer,180000,0.0,4.0
+Senior software engineer,190000,0.0,15.0
+Senior software engineer,200000,0.0,7.0
+Software engineer,212000,0.0,3.0
+Staff software engineer,525000,0.0,13.0
+Software engineer,180000,0.0,4.0
+Software engineer,143000,0.0,2.0
+Software engineer,150000,0.0,1.0
+Founding software engineer,210000,0.0,6.0
+Senior staff software engineer,465000,0.0,15.0
+Software engineer,155000,0.0,2.0
+Software engineer,220000,0.0,4.0
+Senior software engineer,220000,0.0,11.0
+Staff software engineer,230000,0.0,9.0
+Senior software engineer,250000,0.0,6.0
+Software engineer,170000,0.0,1.0
+Software engineer,150000,0.0,1.0
+Senior staff software engineer,225000,0.0,18.0
+Senior software engineer,185000,0.0,3.0
+Senior software engineer,235000,0.0,5.0
+Software engineer,220000,0.0,1.5
+Senior software engineer,225000,0.0,8.0
+Staff software engineer,350000,0.0,10.0
+Embedded software engineer,180000,0.0,5.0
+Senior software engineer,190000,0.0,10.0
+Staff software engineer,200000,0.0,8.0
+Software engineer,110000,0.0,0.0
+Senior software engineer,170000,0.0,4.0
+Staff software engineer,270000,0.0,7.0
+Software engineer,180000,0.0,4.0
+Senior software engineer,245000,0.0,10.0
+Senior software engineer,200000,0.0,6.0
+Senior staff software engineer,387000,0.0,12.0
+Senior software engineer,400000,0.0,7.0
+Senior software engineer,212000,0.0,6.0
+Software engineer,150000,0.0,2.0
+Senior software engineer,213000,0.0,7.0
+Software engineer,215000,0.0,6.0
+Senior software engineer,195000,0.0,7.0
+Senior software engineer,210000,0.0,3.0
+Senior software engineer,210000,0.0,3.0
+Senior software engineer,185000,0.0,8.0
+Software engineer,210000,0.0,3.0
+Software engineer,220000,0.0,3.0
+Senior software engineer,250000,0.0,10.0
+Staff software engineer,210000,0.0,10.0
+Staff software engineer,275000,0.0,11.0
+Senior software engineer,220000,0.0,5.0
+Senior software engineer,185000,0.0,2.0
+Senior software engineer,250000,0.0,10.0
+Senior software engineer,240000,0.0,6.0
+Senior software engineer,230000,0.0,5.0
+Senior software engineer,230000,0.0,5.0
+Software engineer,200000,0.0,2.0
+Senior software engineer,160000,0.0,7.0
+Staff software engineer,250000,0.0,10.0
+Senior software engineer,200000,0.0,10.0
+Staff software engineer,225000,0.0,11.0
+Senior software engineer,245000,0.0,11.0
+Software engineer,200000,0.0,12.0
+Software engineer,180000,0.0,3.0
+Senior software engineer,185000,0.0,5.0
+Staff software engineer,230000,0.0,8.0
+Software engineer,175000,0.0,5.0
+Software engineer,180000,0.0,5.0
+Senior software engineer,228000,0.0,5.0
+Lead software engineer,320000,0.0,10.0
+Senior staff software engineer,275000,0.0,14.0
+Software engineer,205000,0.0,2.0
+Senior software engineer,200000,0.0,8.0
+Software engineer,190000,0.0,3.0
+Senior software engineer,210000,0.0,7.0
+Senior software engineer,175000,0.0,7.0
+Software engineer,175000,0.0,4.0
+Senior software engineer,205000,0.0,5.0
+Senior software engineer,220000,0.0,8.0
+Senior software engineer,180000,0.0,4.0
+Senior software engineer,276000,0.0,10.0
+Senior software engineer,243000,0.0,10.0
+Senior software engineer,180000,0.0,4.0
+Senior software engineer,200000,0.0,5.0
+Staff software engineer,236000,0.0,11.0
+Staff software engineer,200000,0.0,6.0
+Senior software engineer,168000,0.0,8.0
+Software engineer,160000,0.0,1.0
+Staff software engineer,236000,0.0,8.0
+Software engineer,170000,0.0,0.0
+Senior software engineer,230000,0.0,9.0
+Senior software engineer,250000,0.0,9.0
+Senior software engineer,310000,0.0,6.0
+Senior software engineer,300000,0.0,6.0
+Software engineer,160000,0.0,1.0
+Software engineer,154000,0.0,2.0
+Software engineer,144000,0.0,0.0
+Senior software engineer,145000,0.0,8.0
+Senior software engineer,235000,0.0,8.0
+Software engineer,200000,0.0,1.0
+Senior software engineer,200000,0.0,4.0
+Software engineer,140000,0.0,0.0
+Software engineer,145000,0.0,0.0
+Senior software engineer,200000,0.0,7.0
+Senior software engineer,277000,0.0,7.0
+Lead software engineer,247000,0.0,10.0
+Senior software engineer,195000,0.0,3.5
+Senior software engineer,205000,0.0,6.0
+Founding software engineer,180000,0.0,5.0
+Senior software engineer,175000,0.0,5.0
+Staff software engineer,200000,0.0,10.0
+Senior software engineer,205000,0.0,8.0
+Senior software engineer,190000,0.0,3.0
+Senior software engineer,160000,0.0,3.0
+Senior software engineer,240000,0.0,8.0
+Staff software engineer,250000,0.0,14.0
+Staff software engineer,245000,0.0,14.0
+Senior software engineer,195000,0.0,6.0
+Senior software engineer,250000,0.0,11.0
+Senior software engineer,209000,0.0,12.0
+Senior software engineer,255000,0.0,7.0
+Software engineer,340000,0.0,1.0
+Senior software engineer,255000,0.0,4.0
+Senior software engineer,210000,0.0,5.0
+Staff software engineer,220000,0.0,5.0
+Software engineer,140000,0.0,5.0
+Software engineer,150000,0.0,2.0
+Senior software engineer,200000,0.0,5.0
+Staff software engineer,235000,0.0,10.0
+Senior software engineer,255000,0.0,10.0
+Software engineer,155000,0.0,2.0
+Software engineer,176000,0.0,2.0
+Senior software engineer,178000,0.0,5.0
+Software engineer,170000,0.0,2.0
+Staff software engineer,230000,0.0,12.0
+Senior staff software engineer,350000,0.0,12.0
+Software engineer,200000,0.0,3.0
+Software engineer,180000,0.0,4.0
+Senior software engineer,205000,0.0,6.0
+Senior software engineer,220000,0.0,7.0
+Senior software engineer,205000,0.0,7.0
+Senior software engineer,220000,0.0,5.0
+Senior software engineer,200000,0.0,7.0
+Software engineer,190000,0.0,5.0
+Staff software engineer,230000,0.0,13.0
+Senior software engineer,150000,0.0,4.0
+Staff software engineer,235000,0.0,7.0
+Senior software engineer,190000,0.0,6.0
+Staff software engineer,200000,0.0,8.0
+Senior software engineer,200000,0.0,9.0
+Senior software engineer,230000,0.0,2.0
+Software engineer,164500,0.0,3.0
+Software engineer,170000,0.0,3.0
+Staff software engineer,230000,0.0,13.0
+Software engineer,175000,0.0,1.0
+Senior software engineer,165000,0.0,5.0
+Staff software engineer,236000,0.0,15.0
+Staff software engineer,220000,0.0,8.0
+Software engineer,145000,0.0,0.0
+Senior software engineer,160000,0.0,5.0
