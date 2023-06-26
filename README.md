@@ -2,10 +2,10 @@
 
 ## Problem Statement
 The objective of this project is to gather information of Top 1207 Startups and corresponing 500 software engineers from [this website](https://topstartups.io/). <br/> 
-Later we utilized the scraped data and applied data science to understand the following demographics and correlations using Tableau Dashboard: 
+Later we utilized the scraped data and applied data science to understand following key points using Tableau Dashboard and data anaylsis: 
 
 1. Startup frequency heatmap in a map and bar chart of coutry frequency (excluding USA for unbiased heatmap)
-2. A bubble plot display current use of AI in top startup fields
+2. A bubble plot that can display current use of AI in top startup fields
 3. Which company is in potential risk to lay off employees? (employee generated USD valuation as metric)
 4. Which company is very productive for investemnt, job seekers. (employee generated valuation as metric)
 5. Does a startup have room for growth (employee generated valuation as metric)
@@ -25,7 +25,7 @@ Also, Hardwares are progressively adopting AI. Hardwares is ene of the top field
 6. Software Engineers position salary Scale and Relation valued and serialized. Important understanding for job holders. This nature of analysis can be applied with any other position e.g. finance, marketing team, project managers etc as well.
 
 
-## Build From Sources and Run the Selenium Scraper
+## Build From Sources and using the Selenium Scraper
 1. Clone the repo
 ```bash
 git clone https://github.com/msi1427/Demographics-of-Best-CS-Scientists-Worldwide.git
