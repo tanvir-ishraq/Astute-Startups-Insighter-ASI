@@ -22,7 +22,7 @@ Also, Hardwares are progressively adopting AI. Hardwares is ene of the top field
 3. Distinguised startups that could be in potential risk to lay off employees. (High amount of Employees. low startup Valueation). This is useful information for both investors and job seekers, employees to understand stability and security of a startup.
 4. Distinguised startups that are despite being very productive still should have more room for growth (Low amount of Employees. Great startup Valueation). Providing useful information for both investors and job seekers, employees to understand stability and security of a startup.
 5. Analyzed startups to estimate potential future bankruptcy possibility to look out for. (Long years of business yet yielding low amount valuation compared to peers). Important for startup directors, employees in rish of lay off and investors.
-6. Software Engineers position salary Scale and Relation serialized. Important understanding for job holders. This nature of analysis can be applied with any other position e.g. finance, marketing team, project managers etc as well.
+6. Software Engineers position salary Scale and Relation valued and serialized. Important understanding for job holders. This nature of analysis can be applied with any other position e.g. finance, marketing team, project managers etc as well.
 
 
 ## Build From Sources and Run the Selenium Scraper
