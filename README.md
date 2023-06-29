@@ -36,9 +36,9 @@ git clone https://github.com/msi1427/Demographics-of-Best-CS-Scientists-Worldwid
 pip install -r requirements.txt
 ```
 3. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads 
-4. Run the scraper notebook named: 
+4. Run the scraper notebook named:
 ```bash
 scraper_&_data_processing_startups.ipynb
 ```
-6. You will get 3 files named `Top_startups_details_dataset_complete.csv`, `SE_in_startups_dataset.csv`, `AI_field_trend_dataset.csv` containing all the required fields. 
+5. You will get 3 files named `Top_startups_details_dataset_complete.csv`, `SE_in_startups_dataset.csv`, `AI_field_trend_dataset.csv` containing all the required fields. 
 Alternatively, check all the scraped data here: https://github.com/tanvir-ishraq/Astute-Startups-Insighter-ASI-a-Data-Analysis-Project-for-investors-and-software-engineers/tree/main/ASI%20Scraper
