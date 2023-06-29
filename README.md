@@ -5,12 +5,12 @@ The objective of this project is to gather information of Top 1207 Startups and 
 Later we utilized the scraped data providing insights to both investors and job seekers, employees, stakeholders simultaneously by applying data science to understand following key points using Tableau Dashboard and data anaylsis   : 
 Video demo: https://youtu.be/fl44qPe61ws
 
-1. Startup frequency heatmap in a map and bar chart of coutry frequency (excluding USA for unbiased heatmap)
+1. Startup frequency heatmap in a map and bar chart of country frequency (excluding USA for unbiased heatmap)
 2. A bubble plot that can display current use of AI in top startup fields
 3. Which company is in potential risk to lay off employees? (employee generated USD valuation as metric)
-4. Which company is very productive for investemnt, job seekers. (employee generated valuation as metric)
+4. Which company is very productive for investment, job seekers. (employee generated valuation as metric)
 5. Does a startup have room for growth (employee generated valuation as metric)
-6. Which company is risk prone to future banruptcy (Years generated valuation as metric)
+6. Which company is risk prone to future bankruptcy (Years generated valuation as metric)
 5. salary scale of employees in different positions e.g. software engineers and how they connect with each other from salary dimension
 
 You can visit the public dashboard [here](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes). 
