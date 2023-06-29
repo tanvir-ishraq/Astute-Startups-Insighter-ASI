@@ -2,7 +2,8 @@
 
 ## Problem Statement
 The objective of this project is to gather information of Top 1207 Startups and corresponing 500 software engineers from [this website](https://topstartups.io/). <br/> 
-Later we utilized the scraped data and applied data science to understand following key points using Tableau Dashboard and data anaylsis: 
+Later we utilized the scraped data and applied data science to understand following key points using Tableau Dashboard and data anaylsis providing : 
+Video demo: https://youtu.be/fl44qPe61ws
 
 1. Startup frequency heatmap in a map and bar chart of coutry frequency (excluding USA for unbiased heatmap)
 2. A bubble plot that can display current use of AI in top startup fields
@@ -19,7 +20,7 @@ You can visit the public dashboard [here](https://public.tableau.com/app/profile
 Job seekers can also be aware of the fact that this place will be hiring.
 2. One of top trend of AI use is in healthcare. AI has found its way into the healthcare system even though there is an ethical consideration regarding adopting AI into healthcare without professional Doctor supervision and it is shunned.
 Also, Hardwares are progressively adopting AI. Hardwares is ene of the top fields.
-3. Distinguised startups that could be in potential risk to lay off employees. (High amount of Employees. low startup Valueation). This is useful information for both investors and job seekers, employees to understand stability and security of a startup.
+3. Distinguised startups that could be in potential risk to lay off employees. (High amount of Employees. low startup Valueation). This is useful information for both investors and job seekers, employees, stakeholders to understand stability and security of a startup.
 4. Distinguised startups that are despite being very productive still should have more room for growth (Low amount of Employees. Great startup Valueation). Providing useful information for both investors and job seekers, employees to understand stability and security of a startup.
 5. Analyzed startups to estimate potential future bankruptcy possibility to look out for. (Long years of business yet yielding low amount valuation compared to peers). Important for startup directors, employees in rish of lay off and investors.
 6. Software Engineers position salary Scale and Relation valued and serialized. Important understanding for job holders. This nature of analysis can be applied with any other position e.g. finance, marketing team, project managers etc as well.
