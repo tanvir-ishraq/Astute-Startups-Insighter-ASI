@@ -2,7 +2,7 @@
 
 ## Problem Statement
 The objective of this project is to gather information of Top 1207 Startups and corresponing 500 software engineers from [this website](https://topstartups.io/). <br/> 
-Later we utilized the scraped data and applied data science to understand following key points using Tableau Dashboard and data anaylsis providing : 
+Later we utilized the scraped data providing insights to both investors and job seekers, employees, stakeholders simultaneously by applying data science to understand following key points using Tableau Dashboard and data anaylsis   : 
 Video demo: https://youtu.be/fl44qPe61ws
 
 1. Startup frequency heatmap in a map and bar chart of coutry frequency (excluding USA for unbiased heatmap)
