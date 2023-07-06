@@ -2,7 +2,7 @@
 
 ## Problem Statement
 The objective of this project is to gather information of Top 1207 Startups and corresponing 500 software engineers from [this website](https://topstartups.io/). <br/> 
-Later we utilized the scraped data providing insights to both investors and job seekers, employees, stakeholders simultaneously by applying data science to understand following key points using Tableau Dashboard and data anaylsis   : 
+Later we utilized the scraped data providing insights to both investors and job seekers, employees, stakeholders simultaneously( encompassing both workforce level) by applying data science to understand following key points using Tableau Dashboard and data anaylsis   : 
 
 (Video demo: https://youtu.be/fl44qPe61ws)
 
