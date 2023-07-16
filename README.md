@@ -4,7 +4,7 @@
 The objective of this project is to gather information of Top 1207 Startups and corresponding 500 software engineers from [this website](https://topstartups.io/). <br/> 
 Later we utilized the scraped data providing insights to both investors and job seekers, employees, stakeholders simultaneously( encompassing all workforce & resource level) by applying data science to understand following key points using Tableau Dashboard and data analysis   : 
 
-(Video demo: https://youtu.be/fl44qPe61ws)
+(unofficial temporary Video demo: https://youtu.be/fl44qPe61ws)
 
 1. Startup frequency heatmap in a map and bar chart of country frequency (excluding USA for unbiased heatmap)
 2. A bubble plot that can display current use of AI in top startup fields
