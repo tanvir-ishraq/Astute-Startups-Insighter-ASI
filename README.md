@@ -1,7 +1,7 @@
 # Astute Startups Insighter (ASI) - A Data Analysis Project
 
 ## Problem Statement
-The objective of this project is to gather information of Top 1207 Startups and corresponding 500 software engineers from [this website](https://topstartups.io/). This was a dynamin website. As well as the data placement was also dynamic. These features was handled while scraping with selenium. Afterwards I implemented data processing to engineer new features for upcoming analysis, and startdardize data such as currency data. etc <br/> 
+The objective of this project is to gather information of Top 1207 Startups and corresponding 500 software engineers from [this website](https://topstartups.io/). This was a dynamic website. As well as the data placement was also challengingly dynamic in the html structure. These facts were handled while scraping with selenium. Afterwards, I implemented data processing to engineer new features for upcoming analysis, and standardize data such as currency data. etc. <br/> 
 Later we utilized the scraped data providing insights to both investors and job seekers, employees, stakeholders simultaneously( encompassing all workforce & resource level) by applying data science to understand following key points using Tableau Dashboard and data analysis   : 
 
 1. Startup frequency heatmap in a map and bar chart of country frequency (excluding USA for unbiased heatmap)
