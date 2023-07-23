@@ -12,7 +12,7 @@ Later we utilized the scraped data providing insights to both investors and job 
 6. Which company is risk prone to future bankruptcy (Years generated valuation as metric)
 5. salary scale of employees in different positions e.g. software engineers and how they connect with each other from salary dimension
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes). 
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes). It Dashboard contains multiple tabs. Each Tab used to find different new insights. It is suggested to use the fullscreen for a better overarching view. 
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes)
 1. Besides other countries, Interestingly india is a melting point of new startups. There should be new opportunities for investors. But the high number calls for research of stability and security first before investing.
