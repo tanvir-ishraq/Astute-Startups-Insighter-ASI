@@ -12,8 +12,8 @@ Later we utilized the scraped data providing insights to both investors and job 
 6. Which company is risk prone to future bankruptcy (Years generated valuation as metric)
 5. salary scale of employees in different positions e.g. software engineers and how they connect with each other from salary dimension
 
-You can visit the public dashboard [here](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes). Be mindful that the dashboard contains multiple tabs. Each Tab used to find different new insights. It is suggested to use the fullscreen (available at bottom right) for a better overarching view.<br><br>
-Dashboard preview: <br>
+You can visit the Tableau public dashboard [here](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes). Be mindful that the dashboard contains multiple tabs. Each Tab used to find different new insights. It is suggested to use the fullscreen (available at bottom right) for a better overarching view.<br><br>
+Dashboard preview: (visit the actual dashboard [here in Tableau](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes)) <br>
 <img src = "tableau_dashboard_teaser_view.png" width="820" height="1619">
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes)
