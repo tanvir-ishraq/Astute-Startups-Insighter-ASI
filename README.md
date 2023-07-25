@@ -20,7 +20,7 @@ Dashboard preview: (visit the actual dashboard [here in Tableau](https://public.
 1. Besides other countries, Interestingly india is a melting point of new startups. There should be new opportunities for investors. But the high number calls for research of stability and security first before investing. <br>
 Job seekers around corresponding economy level can also be aware of the fact that this area will be hiring.
 2. One of top trend of AI use is in healthcare. AI has found its way into the healthcare system even though there is an ethical consideration regarding adopting AI into healthcare without professional (e.g. Doctor) supervision and it is shunned. <br>
-Also, Hardwares are progressively adopting AI. Hardwares is one of the top fields.
+Also, Hardware are progressively adopting AI. Hardware is one of the top fields.
 3. Distinguished startups that could be in potential risk to lay off employees. (High amount of Employees. low startup Valuation). This is useful information for both investors and job seekers, employees, stakeholders to understand stability and security of a startup.
 4. Distinguished startups that are despite being very productive still should have more room for growth (Low amount of Employees. Great startup Valuation). Providing useful information for both investors and job seekers, employees to understand stability and security of a startup.
 5. Analyzed startups to estimate potential future bankruptcy possibility to look out for. (Long years of business yet yielding low amount valuation compared to peers). Important for startup directors, employees in risk of lay off and investors.
