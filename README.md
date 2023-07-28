@@ -44,7 +44,7 @@ pip install -r requirements.txt
 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads 
 5. Run the scraper:
 ```bash
-python selenium_scraper/ASI_scraper.py --chromedriver_path <path_to_chromedriver>
+python ASI_scraper/ASI_scraper.py --chromedriver_path <path_to_chromedriver>
 ```
 6. You will get 3 files named `Top_startups_details_dataset_complete.csv`, `SE_in_startups_dataset.csv`, `AI_field_trend_dataset.csv` containing all the required fields. 
 Alternatively, check all the scraped data [here](https://github.com/tanvir-ishraq/Astute-Startups-Insighter-ASI--a-Data-Analysis-Project-for-Investors-and-Software-Engineers/tree/main/datasets). 
