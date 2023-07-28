@@ -18,13 +18,13 @@ Dashboard preview: (visit the actual dashboard [here in Tableau](https://public.
 
 ## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes)
 1. Besides other countries, Interestingly India is a melting point of new startups. There should be new opportunities for investors. But this high number calls for research on stability and security first before investing. <br>
-Job seekers around corresponding economy level can also be aware of the fact that this area will be hiring.
-2. One of top trend of AI use is in healthcare. AI has found its way into the healthcare system even though there is a supposed ethical consideration regarding adopting AI into healthcare without professional (e.g. Doctor) supervision and it is shunned. <br>
-Also, Hardware are progressively adopting AI. Hardware is one of the top fields.
-3. This analysis distinguished startups that could be in potential risk to lay off employees located at the top. (High amount of Employees. low startup Valuation). This is useful information for both investors and job seekers, employees, stakeholders to understand stability and security of a startup.
-4. This analysis distinguished startups that are despite being very productive still should have more room for growth located at the top (Low amount of Employees. Great startup Valuation). Providing useful information for both investors and job seekers, employees to understand stability and security of a startup.
-5. Analyzed startups to estimate potential future bankruptcy possibility to look out for given a set of years. These startups are Located at the bottom for each group of "years in business" (Long years of business yet yielding low amount valuation compared to peers). Important for startup directors, employees in risk of lay off and investors.
-6. Software Engineers position salary Scale and Relation valued and serialized. Important understanding for job holders. This nature of analysis can be applied with any other position e.g. finance, marketing team, project managers etc. if there is access to their data.
+Job seekers around the corresponding economic level can also be aware of the fact that this area will be hiring.
+2. One of the top trends of AI use is in healthcare. AI has found its way into the healthcare system even though there is a supposed ethical consideration regarding adopting AI into healthcare without professional (e.g. Doctor) supervision and it is shunned. <br>
+Also, Hardware is progressively adopting AI. Hardware is one of the top fields.
+3. This analysis distinguished startups that could be at potential risk to lay off employees located at the top. (High amount of Employees. low startup Valuation). This is useful information for both investors and job seekers, employees, and stakeholders to understand the stability and security of a startup.
+4. This analysis distinguished startups that despite being very productive still should have more room for growth located at the top (Low amount of Employees. Great startup Valuation). Providing useful information for both investors and job seekers, employees to understand the stability and security of a startup.
+5. Analyzed startups to estimate potential future bankruptcy possibilities to look out for given a set of years. These startups are Located at the bottom for each group of "years in business" (Long years of business yet yielding low amount valuation compared to peers). Important for startup directors, employees at risk of lay off and investors.
+6. Software Engineer's position salary Scale and Relation valued and serialized. Important understanding for job holders. Giving an idea of how much value they shall be making and the upgrade path. This nature of analysis can be applied to any other position e.g. finance, marketing team, project managers etc as long as there is access to such data.
 
 
 ## Build From Sources and using the Selenium Scraper
