@@ -16,7 +16,7 @@ You can visit the Tableau public dashboard [here](https://public.tableau.com/app
 Dashboard preview: (visit the actual dashboard [here in Tableau](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes)) <br>
 <img src = "tableau_dashboard_teaser_view.png" width="820" height="1619">
 
-## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes)
+## Insights, Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes)
 1. Besides other countries, Interestingly India is a melting point of new startups. There should be new opportunities for investors. But this high number calls for research on stability and security first before investing. <br>
 Job seekers around the corresponding economic level can also be aware of the fact that this area will be hiring.
 2. One of the top trends of AI use is in healthcare. AI has found its way into the healthcare system even though there is a supposed ethical consideration regarding adopting AI into healthcare without professional (e.g. Doctor) supervision and it is shunned. <br>
