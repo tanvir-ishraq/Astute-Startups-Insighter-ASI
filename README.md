@@ -30,7 +30,7 @@ Also, Hardware is progressively adopting AI. Hardware is one of the top fields.
 ## Build From Sources and using the Selenium Scraper
 1. Clone the repo
 ```bash
-git clone https://github.com/tanvir-ishraq/Astute-Startups-Insighter-ASI--a-Data-Analysis-Project-for-Investors-and-Software-Engineers.git
+git clone https://github.com/tanvir-ishraq/Astute-Startups-Insighter-ASI--for-Investors-and-Software-Engineers.git
 ```
 2. Intialize and activate virtual environment
 ```bash
