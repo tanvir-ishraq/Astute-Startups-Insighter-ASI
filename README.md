@@ -9,7 +9,7 @@ Later I utilized the scraped data providing insights to both investors and job s
 3. When a company is in potential risk to lay off employees? important to know for a company. (employee generated USD valuation as metric)
 4. Which company is very productive for investment, job seekers. (employee generated valuation as metric)
 5. Does a startup have room for growth (employee generated valuation as metric)
-6. Which company is risk prone to future bankruptcy (Years generated valuation as metric)
+6. Which time company is risk prone to future bankruptcy (Years generated valuation as metric)
 5. salary scale of employees in different positions e.g. software engineers and how they connect with each other from salary dimension
 
 You can visit the Tableau public dashboard [here](https://public.tableau.com/app/profile/tanvir.ishraq.khan/viz/AstuteStartupsInsighter-Aprojectforinvestorssoftwareengineerssimultaneously/Stability2Sheet?publish=yes). Be mindful that the dashboard contains multiple tabs. Each Tab used to find different new insights. It is suggested to use the fullscreen (available at bottom right) for a better overarching view.<br><br>
