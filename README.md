@@ -1,6 +1,6 @@
-<h2 align="center"> Astute Startups Insighter (ASI) - A Data Analysis Project </h2>
+<h2 align="center"> Astute Startups Insighter (ASI) - A Data Analysis Project </h2> 
 
-## Problem Statement
+### Problem Statement
 The objective of this project is to use Data Scraping to gather information of Top 1207 Startups and corresponding 500 software engineers from [this website](https://topstartups.io/) & then apply Data Analysis. This was a dynamic website. As well as the data placement was also challengingly dynamic in the html structure. These facts were handled while scraping with selenium. Afterwards, I implemented data processing to engineer new features for upcoming analysis, and standardize data such as currency data. etc. <br/> 
 Later I utilized the scraped data providing insights to both investors and job seekers, employees, stakeholders simultaneously( encompassing all workforce & resource level) by applying data science to understand following key points using Tableau Dashboard and data analysis   : 
 
